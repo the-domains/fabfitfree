@@ -1,0 +1,14 @@
+layout_spectrum: 0.9566581272520125
+typography_spectrum: 0.4657940692268312
+color:
+  brandStrength: 0.4531875040847808
+  lightness: 0.07235837751068175
+  saturation: 0.7246074341237545
+  rhythmicContrast: 0.4518232517875731
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: fabfitfree
