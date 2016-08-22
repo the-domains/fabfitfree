@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-22T18:43:23.484Z'
+datePublished: '2016-08-22T23:52:52.665Z'
 sourcePath: _posts/2016-08-22-what-is-isagenix.md
 isBasedOnUrl: 'https://shar.es/1wfjkY'
 author: []
 via: {}
-dateModified: '2016-08-22T18:43:23.038Z'
+dateModified: '2016-08-22T23:52:52.058Z'
 title: '#OneTeam #OneVision #StepUp'
 publisher:
   url: 'https://www.facebook.com/gayanna'
@@ -50,5 +50,8 @@ Our mission is to free people from physical and financial pain. And with Baby Bo
 
 If you resonate with any of this, please friend me on [Facebook][1] if we're not friends yet. Then private message me so we can chat and YOU can decide if one of our solutions is right for you.
 
+### [Disclaimers][2]
+
 [0]: http://justthrive.isagenix.com/en-US/Isamovie#cat=wealthCreation&vid=liFY7EWPiUU&useBc=0 "The Truth About Isagenix"
 [1]: https://www.facebook.com/gayanna "g's facebook page"
+[2]: http://justthrive.isagenix.com/en-US/disclaimers "Disclaimers"
