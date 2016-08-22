@@ -1,22 +1,29 @@
 ---
-datePublished: '2016-08-22T17:28:43.068Z'
+datePublished: '2016-08-22T17:39:14.187Z'
 sourcePath: _posts/2016-08-22-what-is-isagenix.md
 isBasedOnUrl: 'https://shar.es/1wfjkY'
 author: []
 via: {}
-dateModified: '2016-08-22T17:28:42.593Z'
-title: What is Isagenix?
+dateModified: '2016-08-22T17:39:13.725Z'
+title: The Truth About Isagenix
 publisher:
   url: 'https://www.facebook.com/gayanna'
   name: g
 description: >-
-  Would you like to be part of an amazing group of people who are helping people
-  lead healthier happier lives? Are you positive, fun, and enthusiastic about
-  life? Do you get excited when other people are successful and would love to be
-  a part of their success? If so, you’re our kind of person! Watch this 12
-  minute video for an overview of what we do, and our mission to free people
-  from physical and financial pain. Then friend me on Facebook so we can chat
-  and you can decide which of our solutions are right for you.
+  Wouldn’t you love being part of a group of healthy, happy people who are
+  helping people lead healthier happier lives? Would you like to be the best
+  version of yourself with a healthier mind and body? Do you have any physical
+  complaints you’d like to find natural solutions for such as more energy and
+  performance, fat loss, better sleep, less brain fog, and possibly even slowing
+  down the aging process? Would you like to redesign your lifestyle and make
+  worries about finances something you no longer experience? Are you positive,
+  fun, and enthusiastic about life? Would you like to do something every day
+  that makes a positive contribution to the world? If you answered yes to at
+  least 3 of those questions, we need to talk! Watch this 12 minute video for an
+  overview of what we do, and our mission to free people from physical and
+  financial pain and have fun doing it. When you’re done, friend me on Facebook
+  if we’re not already friends and private message me so we can chat and YOU can
+  decide which of our solutions are right for you.
 starred: false
 inFeed: true
 hasPage: false
@@ -24,10 +31,12 @@ inNav: false
 _type: MediaObject
 
 ---
-# What is Isagenix?
+# The Truth About Isagenix
 
-Would you like to be part of an amazing group of people who are helping people lead healthier happier lives? Are you positive, fun, and enthusiastic about life? Do you get excited when other people are successful and would love to be a part of their success? If so, you're our kind of person! Watch this [12 minute video][0] for an overview of what we do, and our mission to free people from physical and financial pain. Then friend me on [Facebook][1] so we can chat and you can decide which of our solutions are right for you.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbc56bbd-c0af-41f4-b9e2-513e0852876d.jpg)
+Wouldn't you love being part of a group of healthy, happy people who are helping people lead healthier happier lives? Would you like to be the best version of yourself with a healthier mind and body? Do you have any physical complaints you'd like to find natural solutions for such as more energy and performance, fat loss, better sleep, less brain fog, and possibly even slowing down the aging process? Would you like to redesign your lifestyle and make worries about finances something you no longer experience? Are you positive, fun, and enthusiastic about life? Would you like to do something every day that makes a positive contribution to the world? If you answered yes to at least 3 of those questions, we need to talk! Watch this [12 minute video][0] for an overview of what we do, and our mission to free people from physical and financial pain and have fun doing it. When you're done, friend me on [Facebook][1] if we're not already friends and private message me so we can chat and YOU can decide which of our solutions are right for you.
+![Just a few of the people who have decided to #stepup and help others lead happier, healthier, lives.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbc56bbd-c0af-41f4-b9e2-513e0852876d.jpg)
+
+http://justthrive.isagenix.com/en-US/Isamovie\#cat=wealthCreation&vid=liFY7EWPiUU&useBc=0
 
 [0]: http://justthrive.isagenix.com/en-US/Isamovie#cat=wealthCreation&vid=liFY7EWPiUU&useBc=0 "The Truth About Isagenix"
 [1]: https://www.facebook.com/gayanna "g's facebook page"
