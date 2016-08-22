@@ -37,6 +37,9 @@ navigation:
     url: >-
       http://justthrive.isagenix.com/en-US/Isamovie#cat=wealthCreation&vid=M7sK2-SC8vk&useBc=0
     type: external
+  - name: isaBody Challenge
+    url: 'http://justthrive.isagenix.com/en-US/isabody-challenge'
+    type: external
 collections:
   - index:
       path: /
