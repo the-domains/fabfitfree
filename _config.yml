@@ -40,6 +40,9 @@ navigation:
   - name: isaBody Challenge
     url: 'http://justthrive.isagenix.com/en-US/isabody-challenge'
     type: external
+  - name: Disclaimers
+    url: 'http://justthrive.isagenix.com/en-US/disclaimers'
+    type: external
 collections:
   - index:
       path: /
