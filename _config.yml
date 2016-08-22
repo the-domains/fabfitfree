@@ -27,6 +27,9 @@ navigation:
   - name: Team Isagenix
     url: 'http://justthrive.isagenix.com/en-us/people/team-isagenix/team-isagenix'
     type: external
+  - name: Start Your Life
+    url: 'http://www.startyourlife.com/'
+    type: external
 collections:
   - index:
       path: /
