@@ -30,6 +30,9 @@ navigation:
   - name: Start Your Life
     url: 'http://www.startyourlife.com/'
     type: external
+  - name: Heathy Mind + Body
+    url: 'http://healthymindandbody.com/'
+    type: external
 collections:
   - index:
       path: /
