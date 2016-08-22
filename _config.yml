@@ -1,16 +1,3 @@
-layout_spectrum: 0.4357912465929985
-typography_spectrum: 0.5115701616741717
-color:
-  saturation: 0.015483923023566604
-  brandStrength: 0.812454337021336
-  lightness: 0.699611545773223
-  brandColors:
-    - '#7D8A2E'
-    - '#C9D787'
-    - '#FFFFFF'
-    - '#FFC0A9'
-    - '#FF8598'
-  rhythmicContrast: 0.1600657047238201
 title: Beauty. Body. Bliss
 collections:
   - index:
@@ -18,11 +5,24 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 0.8512127
+  brandStrength: 0.866138
+  lightness: 0
+  brandColors:
+    - '#FFFFFF'
+    - '#505048'
+    - '#000000'
+    - '#64748B'
+    - '#A9B2C1'
+  rhythmicContrast: 0.04617537
+typography_spectrum: 0.5466418
 description: why not have it all?
+layout_spectrum: 0
 name: fabfitfree
