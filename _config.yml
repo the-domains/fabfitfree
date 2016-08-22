@@ -24,6 +24,9 @@ navigation:
     url: >-
       http://justthrive.isagenix.com/en-US/Isamovie#cat=weightLoss&vid=Pg6gF3DPt8k&useBc=0
     type: external
+  - name: Team Isagenix
+    url: 'http://justthrive.isagenix.com/en-us/people/team-isagenix/team-isagenix'
+    type: external
 collections:
   - index:
       path: /
