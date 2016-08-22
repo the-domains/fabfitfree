@@ -33,6 +33,10 @@ navigation:
   - name: Heathy Mind + Body
     url: 'http://healthymindandbody.com/'
     type: external
+  - name: Breakthrough
+    url: >-
+      http://justthrive.isagenix.com/en-US/Isamovie#cat=wealthCreation&vid=M7sK2-SC8vk&useBc=0
+    type: external
 collections:
   - index:
       path: /
