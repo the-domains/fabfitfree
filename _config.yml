@@ -16,6 +16,10 @@ author:
   email: g@fabfitfree.com
   url: 'http://www.facebook.com/gayanna'
 name: fabfitfree
+navigation:
+  - name: Products
+    url: 'http://justthrive.isagenix.com/en-US/IsaProduct/IsaProduct'
+    type: external
 collections:
   - index:
       path: /
