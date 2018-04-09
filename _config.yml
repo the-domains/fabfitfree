@@ -1,21 +1,36 @@
-typography_spectrum: 0.5115701616741717
+layout_spectrum: 0.606566206177715
+typography_spectrum: 0.2554565970025182
 color:
-  saturation: 0.015483923023566604
-  brandStrength: 0.812454337021336
-  lightness: 0.699611545773223
+  saturation: 0.010512633479596807
+  brandStrength: 0.8154932624184629
+  rhythmicContrast: 0.16222131149557484
   brandColors:
-    - '#7D8A2E'
-    - '#C9D787'
-    - '#FFFFFF'
-    - '#FFC0A9'
-    - '#FF8598'
-  rhythmicContrast: 0.1600657047238201
-layout_spectrum: 0.4357912465929985
+    - '#25064D'
+    - '#36175E'
+    - '#553285'
+    - '#7B52AB'
+    - '#9768D1'
+  lightness: 0.6540312022325758
+coverPrefs:
+  filter: false
 author:
   name: g
   email: g@fabfitfree.com
   url: 'http://www.facebook.com/gayanna'
-name: fabfitfree
+title: Beauty. Body. Bliss
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+description: your best you. your best life.
 navigation:
   - name: Products
     url: 'http://justthrive.isagenix.com/en-US/IsaProduct/IsaProduct'
@@ -43,17 +58,37 @@ navigation:
   - name: Disclaimers
     url: 'http://justthrive.isagenix.com/en-US/disclaimers'
     type: external
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-title: Beauty. Body. Bliss
-description: why not have it all?
+name: fabfitfree
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4474342-cef2-4182-b77d-2f5a163c83ef.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4474342-cef2-4182-b77d-2f5a163c83ef.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+purpose:
+  - type: contact
+    url: 'mailto:g@fabfitfree.com'
+    label: email g
+  - type: external
+    url: 'http://justthrive.isagenix.com'
+    label: join our tribe
+github: true
