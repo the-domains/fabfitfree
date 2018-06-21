@@ -44,7 +44,7 @@ navigation:
   - name: Disclaimers
     url: 'http://justthrive.isagenix.com/en-US/disclaimers'
     type: external
-  - name: FabFitFree
+  - name: Get Your Fit Together
     url: 'http://fabfitfree.com'
     type: external
 collections:
