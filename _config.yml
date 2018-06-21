@@ -1,4 +1,3 @@
-layout_spectrum: 0.606566206177715
 typography_spectrum: 0.2554565970025182
 color:
   saturation: 0.010512633479596807
@@ -11,26 +10,13 @@ color:
     - '#7B52AB'
     - '#9768D1'
   lightness: 0.6540312022325758
-coverPrefs:
-  filter: false
+github: true
+layout_spectrum: 0.606566206177715
 author:
   name: g
   email: g@fabfitfree.com
   url: 'http://www.facebook.com/gayanna'
-title: Beauty. Body. Bliss
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-description: your best you. your best life.
+name: fabfitfree
 navigation:
   - name: Products
     url: 'http://justthrive.isagenix.com/en-US/IsaProduct/IsaProduct'
@@ -58,7 +44,22 @@ navigation:
   - name: Disclaimers
     url: 'http://justthrive.isagenix.com/en-US/disclaimers'
     type: external
-name: fabfitfree
+  - name: FabFitFree
+    url: 'http://fabfitfree.com'
+    type: external
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+title: Beauty. Body. Bliss
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -68,22 +69,25 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4474342-cef2-4182-b77d-2f5a163c83ef.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
+coverPrefs:
+  filter: false
+description: your best you. your best life.
 purpose:
   - type: contact
     url: 'mailto:g@fabfitfree.com'
@@ -91,4 +95,3 @@ purpose:
   - type: external
     url: 'http://justthrive.isagenix.com'
     label: join our tribe
-github: true
