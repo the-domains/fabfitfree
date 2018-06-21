@@ -47,6 +47,9 @@ navigation:
   - name: Get Your Fit Together
     url: 'http://fabfitfree.com'
     type: external
+  - name: Dreamers Welcome
+    url: 'http://dream.fabfitfree.com'
+    type: external
 collections:
   - index:
       path: /
